@@ -1,0 +1,668 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.sec{
+    background-image: url(./Images/IMAGE\ RECTANGLE.png);
+    width: 1440px;
+    border-radius: 20px;
+    height: 900px;
+}
+
+.form{
+   margin-left: 100px;
+   flex-direction: column;
+   height: 500px;
+   width: 600px;
+   /*border: 1px solid black;*/
+   align-items: center;
+   margin: auto;
+   margin-top: 50px;
+   padding-left: 50px;
+   background: var(--d-9-d-9-d-9 rgba (187, 221, 170, 0.26));
+   box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0, 25);
+   backdrop-filter: blur(35px);
+   box-shadow: none;
+   border-radius: 25px;
+   height: 900px;
+   
+   
+}
+
+
+.sec_1{
+    background-image: url(./Images/IMAGE\ RECTANGLE.png);
+    width: 1440px;
+    border-radius: 20px;
+    height: 900px;
+}
+
+.form_1{
+    margin-left: 100px;
+    flex-direction: column;
+    height: 500px;
+    width: 600px;
+    /*border: 1px solid black;*/
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    padding-left: 50px;
+    background: var(--d-9-d-9-d-9 rgba (187, 221, 170, 0.26));
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0, 25);
+    backdrop-filter: blur(35px);
+    box-shadow: none;
+    border-radius: 25px;
+    height: 900px;
+    
+ }
+.form img{
+    margin-left: 50px;
+}
+.sign_up{
+    margin-left: 110px;
+    
+}
+.sign_up input{
+    border-radius: 50px;
+    padding: 10px;
+    width: 300px;
+    box-shadow: none;
+    
+}
+.box_form{
+    padding-bottom: 25px;
+}
+
+
+.sign_up label{
+    display: block;
+    
+}
+.sign_up h2{
+    padding-bottom: 20px;
+    margin-left: 50px;
+}
+.sign_up h1{
+    margin-left: 50px;
+
+}
+.sign_up .account{
+   margin-left: 110px;
+}
+
+
+   
+
+
+.box{
+    margin-top: 100px;
+}
+
+.form button{
+    color: #000;
+    text-align: center;
+    text-shadow: 0px 4px 25px rgba(56, 149, 0, 0.92);
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+
+    background-color: lawngreen;
+    border-radius: 50px;
+    margin-left: 50px;
+    padding: 5px 40px 5px 40px;
+    font-family: Montserrat;
+    font-size: 20px;
+    box-shadow: 0px 2px 25px 0px #389500;
+
+}
+.form_1 button{
+    color: #000;
+    text-align: center;
+    text-shadow: 0px 4px 25px rgba(56, 149, 0, 0.92);
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+
+    background-color: lawngreen;
+    border-radius: 50px;
+    margin-left: 60px;
+    padding: 5px 40px 5px 40px;
+    font-family: Montserrat;
+    font-size: 20px;
+}
+
+.sign_up button{
+    margin-left: 30px;
+}
+
+.sign_up .welc{
+    padding-bottom: 40px;
+}
+.sign_up .dont{
+    margin-left: 70px;
+}
+
+
+.sign_up .buttt{
+    margin-left: 50px;
+    padding-top: 20px;
+}
+.sign_up h1{
+    padding-left: 10px;
+}
+
+.sec_1 h1{
+    padding-left: 50px;
+}
+
+.sign_up h4{
+    margin-left: 200px;
+    font-weight: 800px;
+    
+   
+}
+
+.secc{
+    border: 5px solid grey;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.menu li{
+    list-style: none;
+    padding-top: 50px; 
+    padding-right: 60px;
+    float: right;
+    font-weight: bold;
+ 
+}
+.menu a{
+    color: black;
+    text-decoration: none;
+}
+.menu_2 img{
+    float: right;
+    width: 600px;
+    padding-left: 50px;
+    margin-right: 50px;
+    
+    
+   
+}
+.menu_2 h1{
+    color: var(--d-37014, #FFA500);
+    font-family: Montserrat;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.menu_2 h2{
+    padding-top:0px;
+    color: var(--d-9-d-9-d-9, #32CD32);
+    font-family: Montserrat;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.menu_2 button{
+    color: var(--b-9-bab-8, #04030F);
+    text-align: center;
+    text-shadow: 0px 0px 25px rgba(168, 255, 53, 0.25);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 40px;
+    background: var(--d-9-d-9-d-9, #32CD32);
+    margin-bottom: 50px;
+
+    display: flex;
+    width: 337px;
+    height: 57px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
+.menu_2 a{
+    text-decoration: none;
+}
+
+.menu li:hover{
+    color: orange;
+    cursor: pointer;
+}
+
+.image_3{
+    position: absolute;
+    margin-left: 750px;
+    top: 1200px;
+    
+}
+
+.Cilantro{
+    position: absolute;
+    top: 1230px;
+    left: 1100px;
+    font-family: montserrat;
+}
+
+.image_7{
+    position: absolute;
+    margin-left: 750px;
+    top: 1600px;
+   
+}
+
+.Nosta{
+    position: absolute;
+    margin-left: 1100px; 
+    top: 1630px;
+    font-family: montserrat;
+
+}
+
+.pearl{
+    position: relative;
+    font-family: montserrat;
+    
+    
+}
+
+
+
+.pearl2{
+    position: relative;
+    display: flex;
+    
+}
+
+.image1{
+
+    margin-left: 70px;
+    top: 300px;
+
+}
+
+.h1{
+    position: absolute;
+    top: 30px;
+    left: 440px;
+
+}
+
+ 
+
+.image_6{
+    position: relative; 
+   
+    left: 70px;  
+}
+
+.mood{
+    position: absolute;
+    top: 1630px;
+    left: 430px; 
+    font-family: montserrat;  
+
+}
+
+.list button{
+    border: none;
+    margin-top: 50px;
+   font-weight: bold;
+} 
+.list a{
+    text-decoration: none;
+    color: black;
+}
+
+.list button:hover{
+    color: orange;
+    cursor: pointer;
+}
+
+.list img{
+    float: left;
+    
+}
+
+.section button{
+    font-family: montserrat;
+}
+
+.search input{
+   margin-left: 110px;
+   width: 400px;
+   border-radius: 20px;
+   padding: 10px;
+   margin-top: 20px;
+   
+}
+
+.trust{
+    margin-left: 100px;   
+}
+
+.trust h1{
+    font-family: montserrat;
+    color: orange;
+}
+
+.trust h3{
+    font-family: montserrat;
+}
+
+.section{
+    background-color: white;
+    
+    
+}
+
+.Info{
+    display: flex;
+    list-style: none;  
+}
+
+.Info li{
+    margin-top: 50px;
+    padding-left: 30px;
+    
+}
+.Info a{
+    text-decoration: none;
+    color: black;  
+}
+
+
+.parent{
+    margin-top: 50px;
+
+}
+
+.child_1{
+    position: relative;
+    border-radius: 10px;
+    
+}
+
+.child_2{
+    position: absolute;
+    margin-bottom: 100px;
+}
+
+.child_3{
+    border-radius: 10px;
+}
+
+.child_4{
+   margin-left: 25px;
+   border-radius: 10px;
+}
+
+.pearl_res{
+    margin-left: 50px;
+    font-family: montserrat;
+}
+
+.heading{
+    color: #FFA500;
+    font-family: montserrat;
+}
+
+.parent button{
+    margin-left: 1150px;
+    border-radius: 30px;
+    font-weight: bold;
+    border: 1px solid lightgreen;
+    
+    
+}
+
+.subway{
+    display: flex;
+    margin-left: 1000px;
+    gap: 50px;
+}
+
+.h5{
+    display: flex;
+    margin-left: 1000px;
+    gap: 60px;      
+}
+
+.opening{
+    font-family: montserrat;
+    margin-left: 100px;
+    display: flex;
+    gap: 900px;
+    font-size: 18px;
+    
+}
+
+.address{
+    font-family: montserrat;
+    margin-left: 100px;
+    display: flex;
+    gap: 850px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.listing{
+    font-family: montserrat;
+    margin-left: 100px;
+    font-size: 18px;
+}
+
+.sub_sub{
+    margin-left: 300px;
+}
+
+.sub_sub2{
+    margin-left: 300px;
+}
+
+.listing_2{
+    font-family: montserrat;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 18px;
+}
+
+.listing_2 button{
+    margin-left: 1100px;
+    border-radius: 30px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 1px solid var(--d-9-d-9-d-9, #32CD32);
+    
+}
+
+
+.srcc{
+    
+    float: left;
+    margin-left: 100px;
+   
+}
+
+.img_5{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.lastchild{
+   
+    margin-left: 100px;
+    display: flex;
+    gap: 60px;
+}
+
+.h4_4{
+ margin-left: 130px;
+ display: flex;
+ gap: 110px;
+ 
+ 
+}
+
+.para{
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.search_2 input{
+    padding: 10.5px 20.5px 10.5px 37.5px;
+    margin-left: 370px;
+    margin-top: 15px;
+    width: 500px;
+    border-radius: 100px;
+    background: var(--b-9-bab-8, #FFF);
+    color: var(--b-9-bab-8, #04030F);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: 1px solid white;
+}
+
+.container{
+   
+    background: var(--d-9-d-9-d-9, rgba(187, 221, 170, 0.26));
+}
+.my_images{
+    margin-left: 1150px;
+}
+
+.container_2{
+    display: flex;
+    justify-content: space-between;
+    font-family: montserrat;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.dont a{
+    
+    color: black;
+}
+.account a{
+    color: black;
+}
+.Contact{
+    border: 3px solid yellowgreen;
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 100px;
+    background-image:url(./Images/IMAGE\ RECTANGLE.png);    
+    
+}
+
+.Contact h1{
+    font-size: 40px;
+    text-align: center;
+    color: orange;
+}
+.user_name2{
+    
+    margin-left: 200px;
+    font-weight: bold;
+}
+.user_name2 input[type="text"], .user_name2 textarea{
+    padding: 13px;
+    width: 70%;
+    border-radius: 10px;
+}
+.user_name2 input[type="email"]{
+    padding: 13px;
+    width: 70%;
+    border-radius: 10px;
+}
+.user_name2 input[type="submit"]{
+    background-color: greenyellow;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.user_name2 h3{
+    color: blue;}
+
+.help{
+    text-align: center;
+    font-size: 100px;
+}
+.choose{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 50px;
+    margin-top: 200px;
+
+}
+
+.Li a{
+    text-decoration: none;
+    color: #000;
+   
+}
+
+.Li li{
+    list-style: none;
+    margin-left: 100px;
+    font-weight: bold;
+}
+
+.Home a{
+    margin-left: 100px;
+    
+    color: #000;
+    font-weight: bold;
+    
+}
+
+.Home li{
+    list-style: none;
+}
+
+.link_2{
+    
+    list-style: none;
+    font-weight: bold;
+    margin-left: 100px;
+  
+}
+
+.link_2 a{
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+
+.About_us{
+    text-align: center;
+    font-size: 50px;
+    color: #FFA500;
+    border: 4px solid lightgreen;
+    border-radius: 10px;
+    background: var(--d-9-d-9-d-9, rgba(187, 221, 170, 0.26));
+}
+
+
